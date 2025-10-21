@@ -1,0 +1,37 @@
+Project Title: Library Management System (Python)
+Student Name: Abubakarr Jalloh
+Student ID: [90504073]
+Course: [BSEM]
+Date: [21/10/2025]
+
+----------------------------------------
+FILES INCLUDED
+----------------------------------------
+1. operations.py – Core system logic and functions
+2. demo.py – Demonstration of how the system works
+3. tests.py – Automated unit tests using assert statements
+4. UML.png – UML diagram of data structures and relationships
+5. DesignRationale.pdf – Explanation of why certain data structures were chosen
+6. README.md – Full documentation and usage instructions
+
+----------------------------------------
+DESCRIPTION
+----------------------------------------
+This project simulates a simple library management system built in Python.
+It supports adding, updating, searching, borrowing, and returning books, as well as managing members.
+
+----------------------------------------
+HOW TO RUN
+----------------------------------------
+1. To run the demo:
+   python demo.py
+
+2. To test all functions:
+   python tests.py
+
+----------------------------------------
+NOTES
+----------------------------------------
+- The system uses dictionaries, lists, and tuples for efficient data storage.
+- Each book is uniquely identified by its ISBN.
+- Maximum borrowing limit is 3 books per member.
